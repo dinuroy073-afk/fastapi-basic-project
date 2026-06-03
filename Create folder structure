@@ -1,0 +1,5 @@
+fastapi-basic-project/
+│
+├── main.py
+├── requirements.txt
+└── README.md
